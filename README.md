@@ -11,7 +11,7 @@
 </div>
 
 ### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dpodsobilov)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dpodsobilov&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **dpodsobilov/dpodsobilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
