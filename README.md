@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### Tech Stack
 <div id="badges">
   <img src="https://img.shields.io/badge/html5-red?logo=html5&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
   <img src="https://img.shields.io/badge/css3-blue?logo=css3&logoColor=white&style=for-the-badge" alt="CSS Badge"/>
@@ -8,6 +9,9 @@
   <img src="https://img.shields.io/badge/react-grey?logo=react&logoColor=light-blue&style=for-the-badge" alt="React Badge"/>
   <img src="https://img.shields.io/badge/git-black?logo=git&logoColor=dark-orange&style=for-the-badge" alt="Git Badge"/>
 </div>
+
+### GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dpodsobilov)](https://git.io/streak-stats)
 <!--
 **dpodsobilov/dpodsobilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
