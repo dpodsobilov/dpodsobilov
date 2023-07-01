@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/html5-red?logo=html5&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/css3-blue?logo=css3&logoColor=white&style=for-the-badge" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/javascript-grey?logo=javascript&logoColor=gold&style=for-the-badge" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/react-grey?logo=react&logoColor=light-blue&style=for-the-badge" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/git-black?logo=git&logoColor=dark-orange&style=for-the-badge" alt="Git Badge"/>
+</div>
 <!--
 **dpodsobilov/dpodsobilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
