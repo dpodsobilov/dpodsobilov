@@ -11,7 +11,7 @@
 </div>
 
 ### GitHub Stats
-https://streak-stats.demolab.com/?user=dpodsobilov&theme=dark&background=000000
+[https://streak-stats.demolab.com/?user=dpodsobilov&theme=dark&background=000000]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpodsobilov)](https://github.com/anuraghazra/github-readme-stats)
 <!--
