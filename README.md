@@ -10,6 +10,7 @@ My name is Denis and I am software engineer.
   <img src="https://img.shields.io/badge/react-grey?logo=react&logoColor=light-blue&style=for-the-badge" alt="React Badge"/>
   <img src="https://img.shields.io/badge/node.js-pear?logo=node.js&logoColor=white&style=for-the-badge" alt="Nodejs Badge"/>
   <img src="https://img.shields.io/badge/git-black?logo=git&logoColor=dark-orange&style=for-the-badge" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL Badge"/>
 </div>
 
 ### GitHub Stats
