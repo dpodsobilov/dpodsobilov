@@ -1,24 +1,15 @@
 ### Hi there 👋
 My name is Denis and I am software engineer.
 
-### Tech Stack
-<div id="badges">
-  <img src="https://img.shields.io/badge/html5-red?logo=html5&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/css3-blue?logo=css3&logoColor=white&style=for-the-badge" alt="CSS Badge"/>
-  <img src="https://img.shields.io/badge/javascript-grey?logo=javascript&logoColor=gold&style=for-the-badge" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/react-grey?logo=react&logoColor=light-blue&style=for-the-badge" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/node.js-pear?logo=node.js&logoColor=white&style=for-the-badge" alt="Nodejs Badge"/>
-  <img src="https://img.shields.io/badge/git-black?logo=git&logoColor=dark-orange&style=for-the-badge" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL Badge"/>
-</div>
 
-### GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=dpodsobilov&theme=dark&background=000000)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dpodsobilov&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dpodsobilov&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpodsobilov&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=dpodsobilov&show_icons=true&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpodsobilov&layout=compact&theme=vision-friendly-dark)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **dpodsobilov/dpodsobilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
