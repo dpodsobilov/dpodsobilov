@@ -16,6 +16,8 @@ My name is Denis and I am software engineer.
 ### GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dpodsobilov&theme=dark&background=000000)
 
+![](https://github-readme-stats.vercel.app/api?username=dpodsobilov&show_icons=true&theme=gotham)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpodsobilov&layout=compact&theme=vision-friendly-dark)
 <!--
 **dpodsobilov/dpodsobilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
