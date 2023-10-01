@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Denis and I am software engineer.
+Now I am studying Angular.
 
 
 # 💻 Tech Stack:
