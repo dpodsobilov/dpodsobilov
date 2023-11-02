@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Denis and I am software engineer.
-Now I am studying Angular.
+Now I am working at cinema-booking project.
 
 
 # 💻 Tech Stack:
