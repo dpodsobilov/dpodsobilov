@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Denis and I am software engineer.
-Now I am searching a job.
+Now I am searching for a job.
 
 
 # 💻 Tech Stack:
